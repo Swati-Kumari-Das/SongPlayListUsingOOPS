@@ -23,7 +23,7 @@ Users can create albums, add songs, and build playlists with interactive options
 - **Collections Used:** `ArrayList`, `LinkedList`, `ListIterator`, `Iterator`  
 - **Input Handling:** `Scanner`  
 
----
+```
 
 ## 📂 Project Structure
 ├── Main.java # Entry point, handles playlist logic
@@ -31,12 +31,12 @@ Users can create albums, add songs, and build playlists with interactive options
 ├── Song.java # Song class (stores title and duration)
 
 
----
+```
 
 ## ▶️ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/music-playlist-java.git
+   git clone: https://github.com/Swati-Kumari-Das/SongPlayListUsingOOPS.git
    cd music-playlist-java
    ```
 2. Compile the Java files:
